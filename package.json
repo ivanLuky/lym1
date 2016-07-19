@@ -1,0 +1,27 @@
+{
+  "name": "lym1",
+  "version": "0.0.0",
+  "description": "Path de aprendizaje del uso del driver de MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanLuky/lym1.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Driver",
+    "Node"
+  ],
+  "author": "ivan999art@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanLuky/lym1/issues"
+  },
+  "homepage": "https://github.com/ivanLuky/lym1#readme",
+  "dependencies": {
+    "mongodb": "^2.2.4"
+  }
+}
